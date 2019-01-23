@@ -1,4 +1,3 @@
-#!/usr/bin/bash
 if [ ! -d docs ]; then
   mkdir docs
 fi

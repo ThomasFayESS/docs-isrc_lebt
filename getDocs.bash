@@ -23,4 +23,4 @@ eval "../USER-SRC_PLC"
 eval "../USER-WeTest"
 eval "../VERI-ISrc_LEBT_ctrl"
 eval "../VERI-LEBT_vac"
-
+eval "../ConOps-LEBT_EMU"
